@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to our second slide!"
 ---
 <<<<<<< HEAD:_posts/000-01-02-Watermelondramatic.md
-My text!
+My text goes here!
 Use the left arrow to go back!
 =======
 Your text
